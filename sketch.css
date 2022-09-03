@@ -1,0 +1,23 @@
+body{
+    color: white;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.sketch{
+    background-color: lavender;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+.sketch-image{
+    text-align: center;
+}
+.sketch h2 {
+text-align: center;
+color: brown;
+}
+.sketch ol {
+    color: darkblue;
+    font-weight: 700;
+    list-style-type: lower-roman;
+}
